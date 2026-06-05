@@ -8,3 +8,64 @@ body{font-family:Arial,sans-serif;margin:0;background:#111;color:#eee;line-heigh
 .card{background:#222;padding:20px;margin:20px 0;border-radius:10px}
 .projectimg{width:100%;max-width:600px;border-radius:8px;background:#444;min-height:200px}
 footer{text-align:center;padding:20px;background:#1b1b1b}
+.navbar{
+background:#1b1b1b;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 50px;
+position:sticky;
+top:0;
+z-index:1000;
+}
+
+.logo{
+font-size:22px;
+font-weight:bold;
+}
+
+.navbar ul{
+display:flex;
+list-style:none;
+gap:25px;
+}
+
+.navbar a{
+color:white;
+text-decoration:none;
+}
+
+.navbar a:hover
+
+.blog-header{
+text-align:center;
+padding:60px 20px;
+}
+
+.blogcard{
+background:#222;
+padding:20px;
+margin-bottom:30px;
+border-radius:10px;
+}
+
+.blogimg{
+width:100%;
+max-width:800px;
+border-radius:8px;
+}
+
+.article{
+max-width:900px;
+margin:auto;
+padding:40px;
+}
+
+.articleimg{
+width:100%;
+border-radius:10px;
+}
+
+html{
+scroll-behavior:smooth;
+}
