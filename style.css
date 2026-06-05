@@ -1,0 +1,10 @@
+
+body{font-family:Arial,sans-serif;margin:0;background:#111;color:#eee;line-height:1.6}
+.container{max-width:1100px;margin:auto;padding:20px}
+.hero{background:#1b1b1b;padding:40px 20px}
+.hero-content{display:flex;gap:30px;align-items:center;flex-wrap:wrap}
+.profile{width:220px;height:220px;border-radius:50%;object-fit:cover}
+.btn{background:#4caf50;color:white;padding:12px 18px;text-decoration:none;border-radius:5px}
+.card{background:#222;padding:20px;margin:20px 0;border-radius:10px}
+.projectimg{width:100%;max-width:600px;border-radius:8px;background:#444;min-height:200px}
+footer{text-align:center;padding:20px;background:#1b1b1b}
